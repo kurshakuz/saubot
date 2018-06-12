@@ -1,0 +1,49 @@
+{
+  "id": "5063e600-c91f-4864-8097-cf4bc0d31b96",
+  "name": "pain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bodypart",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cc482a63-65ca-47b4-8212-f841f1186793",
+          "required": true,
+          "dataType": "@bodypart",
+          "name": "bodypart",
+          "value": "$bodypart",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Что именно у вас болит?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525688568,
+  "fallbackIntent": false,
+  "events": []
+}

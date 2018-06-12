@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0155df00-1c00-4c67-8204-513aa83701ac",
+    "data": [
+      {
+        "text": "привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525786262
+  },
+  {
+    "id": "871d520e-4e5a-4159-9931-663d752735b2",
+    "data": [
+      {
+        "text": "привееееееееееет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525786262
+  },
+  {
+    "id": "d1376e96-eac7-440e-832d-8df33ed5b976",
+    "data": [
+      {
+        "text": "здравствуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525786262
+  }
+]

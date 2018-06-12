@@ -1,0 +1,36 @@
+{
+  "id": "e4ff4893-96fe-46ae-846d-298dfab80b34",
+  "name": "itch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c13ee6e3-832e-435c-9c36-ef1989b44e25",
+          "dataType": "@bodypart",
+          "name": "bodypart",
+          "value": "$bodypart",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525768482,
+  "fallbackIntent": false,
+  "events": []
+}

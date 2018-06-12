@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6e59be9a-3db1-4e59-97d4-d0a9aebe297f",
+    "data": [
+      {
+        "text": "а еще там сильно чешется",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9962543-80bc-459f-b353-d7b95baf0a1e",
+    "data": [
+      {
+        "text": " там еще сильно болит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525688753
+  }
+]

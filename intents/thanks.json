@@ -1,0 +1,28 @@
+{
+  "id": "d9fde053-4bb5-4922-8068-6140862e290e",
+  "name": "thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Не за что, обращайтесь"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525689673,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7f7d4529-1d31-415b-a787-4a43e651a513",
+    "data": [
+      {
+        "text": "чешется ",
+        "userDefined": false
+      },
+      {
+        "text": "рука",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525768482
+  },
+  {
+    "id": "ce65dfe0-31c7-471d-b997-32cb35f55965",
+    "data": [
+      {
+        "text": "чешется ",
+        "userDefined": false
+      },
+      {
+        "text": "нога",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525768482
+  }
+]

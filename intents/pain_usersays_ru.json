@@ -1,0 +1,164 @@
+[
+  {
+    "id": "3e2d3b20-22f4-49f0-b612-c6b5c6d397e0",
+    "data": [
+      {
+        "text": "болит ",
+        "userDefined": false
+      },
+      {
+        "text": "нога",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3983abc4-3337-4a79-a320-f97dcc18f32e",
+    "data": [
+      {
+        "text": "болит ",
+        "userDefined": false
+      },
+      {
+        "text": "шея",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a80f465-67e4-4174-bdac-0d9f987bc4a2",
+    "data": [
+      {
+        "text": "голова",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      },
+      {
+        "text": " болит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecc607c4-4f8e-48be-bb94-368042ddcb56",
+    "data": [
+      {
+        "text": "болит ",
+        "userDefined": false
+      },
+      {
+        "text": "голова",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c489d0be-ad09-4022-8415-565a2105e58d",
+    "data": [
+      {
+        "text": "трещит ",
+        "userDefined": false
+      },
+      {
+        "text": "голова",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1773181-9035-4775-adf5-c4151855a76c",
+    "data": [
+      {
+        "text": "болит ",
+        "userDefined": false
+      },
+      {
+        "text": "рука",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd38612d-3bdf-4191-87fd-b29a0df24dbe",
+    "data": [
+      {
+        "text": "беспокоит ",
+        "userDefined": false
+      },
+      {
+        "text": "нога",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525688568
+  },
+  {
+    "id": "c2d47d8d-f6e9-4fcb-a00e-53827186c5ff",
+    "data": [
+      {
+        "text": "бошка",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": true
+      },
+      {
+        "text": " болит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525688568
+  },
+  {
+    "id": "69b396f1-2eef-49fa-9285-8e3b8521e957",
+    "data": [
+      {
+        "text": "у меня болит ",
+        "userDefined": false
+      },
+      {
+        "text": "голова",
+        "alias": "bodypart",
+        "meta": "@bodypart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525688568
+  }
+]

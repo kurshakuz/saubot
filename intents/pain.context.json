@@ -1,0 +1,42 @@
+{
+  "id": "556fba4f-777b-4e30-9418-706c04a17ae4",
+  "name": "pain.context",
+  "auto": true,
+  "contexts": [
+    "bodypart"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bodypart",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ab2bbb5-225a-4be9-b515-74af1e57db3b",
+          "name": "bodypart",
+          "value": "#bodypart"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Ничем не могу помочь с #bodypart"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525688753,
+  "fallbackIntent": false,
+  "events": []
+}

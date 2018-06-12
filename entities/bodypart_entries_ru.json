@@ -1,0 +1,21 @@
+[
+  {
+    "value": "head",
+    "synonyms": [
+      "голова",
+      "бошка"
+    ]
+  },
+  {
+    "value": "hand",
+    "synonyms": [
+      "рука"
+    ]
+  },
+  {
+    "value": "leg",
+    "synonyms": [
+      "нога"
+    ]
+  }
+]

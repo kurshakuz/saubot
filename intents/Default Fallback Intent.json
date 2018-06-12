@@ -1,0 +1,29 @@
+{
+  "id": "c5b615fd-8d6d-425d-959a-89cb980dcf42",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Извините, я вас не совсем поняла. Укажите, пожалуйста, что вас беспокоит"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525767581,
+  "fallbackIntent": true,
+  "events": []
+}
